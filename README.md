@@ -1,5 +1,3 @@
-- 👋 HI, I’M OUSSAMA EL MOUEKKEN 
-<!---
-oussamaelmouekken/oussamaelmouekken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  👋 HI, I’M OUSSAMA EL MOUEKKEN 
+I'm a student in 1337 BENGUERIR (42 Network)
+
