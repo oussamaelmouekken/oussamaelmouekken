@@ -5,9 +5,8 @@
 
 👨🏻‍💻  About Me :
 
-
-  ->I'm a student in 1337 BENGUERIR (42 Network)
+  -> student in 1337 BENGUERIR (42 Network)
 
   
-  ->sudent in Université Cadi Ayyad (FST marrakech)
+  ->student in Université Cadi Ayyad (FST marrakech)
   
