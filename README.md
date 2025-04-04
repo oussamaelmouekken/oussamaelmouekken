@@ -10,11 +10,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/oussamaelmouekken/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Oussama El Mouekken" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  &nbsp;
+  <a href="mailto:oussamaelmouekken.dev@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Gmail_white.svg" alt="Gmail" height="30" width="40" />
   </a>
 </p>
-
-- 📫 How to reach me: **oussamaelmouekken.dev@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -44,6 +46,7 @@
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oussamaelmouekken&show_icons=true&locale=en&layout=compact" alt="oussamaelmouekken" />
 </p>
+
 
 
   
