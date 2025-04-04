@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Oussama El Mouekken and I'm an IT student passionate about development and open source.</h2>
+<h2 align="left">Hi 👋! My name is Oussama El Mouekken | 
+    Passionate about creating user-friendly and responsive web applications </h2>
 
 ###
 
