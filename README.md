@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm OUSSAMA EL MOUEKKEN</h1>
-<h3 align="center">IT Student | Passionate about Coding and Open Source</h3>
+<h3 align="center">IT Student | Passionate about creating user-friendly and responsive web applications </h3>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
