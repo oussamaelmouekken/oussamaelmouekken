@@ -6,7 +6,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oussamaelmouekken&show_icons=true&theme=radical&locale=en&layout=compact" alt="oussamaelmouekken" /></p>
 
 <h2> Languages and Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h2>
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,php,typescript,django,flask,fastapi,flutter,docker,supabase,firebase,mongodb,mysql,postgres,figma,html,css,tailwindcss,bootstrap,linux,kali,git,github,bash,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript,fastapi,flutter)](https://skillicons.dev)
+
+<h2> Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h2>
+[![My Skills](https://skillicons.dev/icons?i=docker,mysql,git,github,linux,bash,figma)](https://skillicons.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
