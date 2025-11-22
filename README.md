@@ -5,6 +5,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oussamaelmouekken&show_icons=true&theme=radical&locale=en&layout=compact" alt="oussamaelmouekken" /></p>
 
+## Test Icons:
+![Python](https://skillicons.dev/icons?i=python)
+![Git](https://skillicons.dev/icons?i=git)
+
 <h2> Languages & Frameworks <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h2>
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript,fastapi,flutter)](https://skillicons.dev)
 
