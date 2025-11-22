@@ -5,15 +5,19 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oussamaelmouekken&show_icons=true&theme=radical&locale=en&layout=compact" alt="oussamaelmouekken" /></p>
 
-## Test Icons:
-![Python](https://skillicons.dev/icons?i=python)
-![Git](https://skillicons.dev/icons?i=git)
-
 <h2> Languages & Frameworks <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h2>
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript,fastapi,flutter)]
+
+<div align="center">
+![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) 
+![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![Flutter](https://skillicons.dev/icons?i=flutter)
+</div>
 
 <h2> Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h2>
-[![My Skills](https://skillicons.dev/icons?i=docker,mysql,git,github,linux,bash,figma)]
+
+<div align="center">
+![Docker](https://skillicons.dev/icons?i=docker) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) 
+![Linux](https://skillicons.dev/icons?i=linux) ![Bash](https://skillicons.dev/icons?i=bash) ![Figma](https://skillicons.dev/icons?i=figma)
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
