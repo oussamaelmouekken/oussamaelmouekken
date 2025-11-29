@@ -7,7 +7,7 @@
 
 <h2> Languages & Frameworks <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h2>
 
-![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=python) ![Html](https://skillicons.dev/icons?i=html) ![Css](https://skillicons.dev/icons?i=css) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) ![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Fastify](https://skillicons.dev/icons?i=fastify) ![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=python) ![Html](https://skillicons.dev/icons?i=html) ![Css](https://skillicons.dev/icons?i=css) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) ![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 
 <h2> Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h2>
 
