@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm oussama el mouekken</h1>
-<h3 align="center">I'm a junior software enginner from Morocco 🇲🇦, Passionate about creating user-friendly and responsive web applications</h3>
+<h3 align="center">I'm a junior software enginner from Morocco 🇲🇦</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussamaelmouekken&label=Profile%20views&color=0e75b6&style=flat" alt="oussamaelmouekken" /> </p>
 
